@@ -1,6 +1,6 @@
 # Live2D API
 
-> 本项目针对live2d模型使用[cdn](https://cdn.jsdelivr.net/)方式加载时无法切换模型皮肤的问题进行修改
+> 本项目针对使用live2d模型使用[cdn](https://cdn.jsdelivr.net/)方式加载时无法切换模型皮肤的问题进行修改
 
 Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 
